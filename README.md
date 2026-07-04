@@ -1,2 +1,2 @@
-# Olympus-gym
+# olympus-gym
 Gym website 
